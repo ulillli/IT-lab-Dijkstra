@@ -1,9 +1,9 @@
-# A Parallelization of Dijkstra's Shortest Path Algorithm
+#A Parallelization of Dijkstra's Shortest Path Algorithm
 
 Implementation of a parallel version of the Dijkstra algorithm by A. Krauser, K. Mehlhorn, U. Meyer, and P. Sanders and subsequent testing. 
 n-the number of vertices, m=1.5*n
 
-## What is implemented?
+##What is implemented?
 
 1. Dijkstra's implementation with complexity O(n^2).
 2. Implementation of the priority queue.
